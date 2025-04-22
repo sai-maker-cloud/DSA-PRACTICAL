@@ -21,3 +21,4 @@ cout<<"maximum marks obtained:"<<maxheap.top()<<endl;
 cout<<"minimum marks obtained:"<<minheap.top()<<endl;
 return 0;
 }
+"built in function code donot use for practical exam use heap2.cpp"
